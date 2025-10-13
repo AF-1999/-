@@ -54,7 +54,8 @@ body{
     font-size: 22px;
 }
 
-.container {
+.box{
+    margin-top:130px;
 }
 
 .container .wrapper {
