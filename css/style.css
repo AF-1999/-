@@ -143,5 +143,6 @@ body{
 @media (max-width: 600px){
     .container__list{
         flex-direction: column;
+        gap: 20px;
     }
 }
